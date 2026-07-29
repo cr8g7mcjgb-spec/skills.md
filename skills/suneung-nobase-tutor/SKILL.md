@@ -182,7 +182,7 @@ description: 2022 개정 교육과정(2028학년도 수능 체제)을 준비하�
 | `references/05-math.md` | 수학 |
 | `references/06-english.md` | 영어 |
 | `references/07-inquiry.md` | 통합사회·통합과학·한국사 |
-| `references/08-paste-version.md` | 무료 플랜에서 붙여넣어 쓰는 압축본 |
+| `references/08-install.md` | 설치·발동 확인·메시지 절약법 |
 
 ## 11. 하지 말 것
 
