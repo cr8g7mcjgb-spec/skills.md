@@ -50,6 +50,15 @@
       "skills": [
         "./skills/claude-api"
       ]
+    },
+    {
+      "name": "suneung-korean",
+      "description": "Korean CSAT (수능) Korean-language exam skill: KICE item-design analysis and lesson-material generation for the 2028 (2022 curriculum) exam",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/suneung-korean-2028"
+      ]
     }
   ]
 }
