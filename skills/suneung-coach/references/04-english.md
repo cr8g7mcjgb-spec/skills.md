@@ -31,11 +31,19 @@
 
 예:
 ```
-The researchers (who had been studying the phenomenon for decades)
-finally concluded (that the effect was negligible).
+The researchers
+ (who had been studying
+  the phenomenon for decades)
+finally concluded
+ (that the effect
+  was negligible).
 
-뼈대: The researchers concluded that the effect was negligible.
-→ 연구자들이 결론 내렸다: 효과가 미미하다고.
+뼈대:
+The researchers concluded
+that the effect was negligible.
+
+→ 연구자들이 결론 내렸다:
+  효과가 미미하다고.
 ```
 
 **이 훈련을 매일 3문장씩.** 지문 전체를 해석하는 것보다 이게 먼저다.
@@ -89,11 +97,15 @@ finally concluded (that the effect was negligible).
 ### 관계사 — 이 학생이 반복해서 틀릴 가능성이 높은 항목
 
 ```
-관계대명사: 뒤 문장에 주어나 목적어가 비어 있다
-  the book [which I read ___]   ← 목적어 없음 → which
+관계대명사 = 뒤가 불완전
+  the book
+  [which I read ___]
+        ↑ 목적어 없음
 
-관계부사: 뒤 문장이 완전하다
-  the place [where I lived]     ← 완전한 문장 → where
+관계부사 = 뒤가 완전
+  the place
+  [where I lived]
+        ↑ 완전한 문장
 ```
 
 **판단법 한 줄: 뒤 문장이 완전하면 부사, 불완전하면 대명사.**
