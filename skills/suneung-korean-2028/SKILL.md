@@ -25,10 +25,14 @@ license: Complete terms in LICENSE.txt
 | "평가원은 누가/어떻게 출제하나" | `01-exam-system.md` |
 | "역대 기출 흐름·체제 변화" | `02-timeline.md` |
 | 비문학/독서 지문·문항 분석, 독서 수업 자료 | `03-reading.md` + `07-choice-logic.md` |
+| **독서 제재별 화제·처리 도구 (심화)** | **`17-reading-topics.md`** |
 | 문학 작품·세트 분석, 문학 수업 자료 | `04-literature.md` + `08-bogi-sources.md` |
+| **어떤 작품이 나오는 풀인가 (갈래별 정전)** | **`16-literature-canon.md`** |
 | 화법·작문 수업 자료 | `05-speech-writing.md` |
 | 문법(언어) 수업 자료 | `06-grammar.md` |
+| **문법 개념 전수 목록·함정·문항화 방식** | **`18-grammar-inventory.md`** |
 | "오답을 어떻게 만드나", 선지 판정 훈련 | `07-choice-logic.md` |
+| **평가원이 쓰는 선지·발문 문형 그 자체** | **`15-choice-phrasebook.md`** |
 | "\<보기\>는 어디서 가져오나" | `08-bogi-sources.md` |
 | 2028 신체제 대응, 예시문항 | `09-2028-shift.md` |
 | 노베이스 커리큘럼 설계, 진단 | `10-curriculum-novice.md` |
