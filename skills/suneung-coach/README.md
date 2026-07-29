@@ -25,14 +25,14 @@
 ### B. 프로젝트 (기억이 필요하면)
 
 1. 프로젝트 생성 → 이름 "수능"
-2. **프로젝트 지침**에 `templates/프로젝트-지침.md` 붙여넣기
-3. **프로젝트 지식**에 `templates/상태블록.md` 추가
+2. **프로젝트 지침**에 `templates/project-instructions.md` 붙여넣기
+3. **프로젝트 지식**에 `templates/state-block.md` 추가
 
 A와 B를 같이 쓰면 가장 좋다. A가 "어떻게 가르칠지", B가 "학생 상태 기억"을 맡는다.
 
 ### C. 부팅 프롬프트 (무조건 되는 방법)
 
-`templates/부팅-프롬프트.md`의 내용을 **대화 맨 처음에 한 번** 붙여넣는다.
+`templates/boot-prompt.md`의 내용을 **대화 맨 처음에 한 번** 붙여넣는다.
 그 대화 안에서는 코치처럼 작동한다.
 
 기능이 아무것도 없어도 된다. 대신 **새 대화마다 다시 붙여야 한다.**
@@ -169,9 +169,9 @@ SKILL.md                    라우터 + 무료/모바일 제약 + 절대 규칙 
 │   ├── 13-coaching            계획 · 습관 · 시간 배분
 │   └── 14-exam-system         2028 개편 팩트
 └── templates/
-    ├── 부팅-프롬프트.md        ★ 무조건 되는 방법
-    ├── 프로젝트-지침.md        프로젝트 지침용
-    └── 상태블록.md            프로젝트 지식용
+    ├── boot-prompt.md          ★ 무조건 되는 방법
+    ├── project-instructions.md 프로젝트 지침용
+    └── state-block.md          프로젝트 지식용
 ```
 
 **progressive disclosure**: `SKILL.md`만 항상 로드된다.
