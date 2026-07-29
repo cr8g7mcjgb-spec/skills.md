@@ -43,6 +43,7 @@ license: Complete terms in LICENSE.txt
 | 기출 자료 검색·수집·태깅, "자료 찾아줘" | `13-corpus.md` (+ `scripts/`) |
 | **특정 회차에 뭐가 나왔나** (작품·지문 소재·오답률) | **`14-collected-data.md`** |
 | **어디까지 분석됐고 뭐가 비었나 (전 회차 원장)** | **`19-session-ledger.md`** + `assets/ledger.csv` |
+| **2026 수능 대비 2028은 얼마나 겹치나 / 기출 활용 범위** | **`22-2026-vs-2028.md`** |
 
 ## 이 스킬이 강제하는 5가지 원칙
 
