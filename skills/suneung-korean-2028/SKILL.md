@@ -14,6 +14,8 @@ license: Complete terms in LICENSE.txt
 
 핵심만 미리 말하면: 이 스킬에는 **기출 문제 원문이 들어 있지 않다**(저작권·분량). 원문 대조가 필요한 작업이면 `references/13-corpus.md`의 절차로 먼저 코퍼스를 확보하고, 확보 전에는 "원문 미대조" 상태임을 산출물에 명시한다.
 
+**자료를 찾아야 할 때는 네이버 검색 도구를 먼저 쓴다.** `13-corpus.md` §1-B에 검증된 검색 절차·검색어 패턴·출처별 신뢰도 등급이 있다. 다만 **PDF 원문 텍스트는 이 경로로 얻을 수 없다** — 그때는 사용자에게 링크가 아니라 **PDF 파일 업로드**를 요청하고 `pdf` 스킬로 추출한다.
+
 ## 작업 유형별 진입점
 
 요청을 아래 중 하나로 분류하고, 해당 문서만 읽어라. 전부 읽지 마라.
@@ -32,7 +34,7 @@ license: Complete terms in LICENSE.txt
 | 노베이스 커리큘럼 설계, 진단 | `10-curriculum-novice.md` |
 | 학습지·강의안·해설지 제작 | `11-lesson-protocol.md` (+ `assets/`) |
 | 평가원 스타일 문항 자작 | `12-item-writing.md` + `07-choice-logic.md` |
-| 기출 원문 수집·정리·태깅 | `13-corpus.md` (+ `scripts/`) |
+| 기출 자료 검색·수집·태깅, "자료 찾아줘" | `13-corpus.md` (+ `scripts/`) |
 
 ## 이 스킬이 강제하는 5가지 원칙
 
