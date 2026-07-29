@@ -35,6 +35,7 @@ license: Complete terms in LICENSE.txt
 | 학습지·강의안·해설지 제작 | `11-lesson-protocol.md` (+ `assets/`) |
 | 평가원 스타일 문항 자작 | `12-item-writing.md` + `07-choice-logic.md` |
 | 기출 자료 검색·수집·태깅, "자료 찾아줘" | `13-corpus.md` (+ `scripts/`) |
+| **특정 회차에 뭐가 나왔나** (작품·지문 소재·오답률) | **`14-collected-data.md`** |
 
 ## 이 스킬이 강제하는 5가지 원칙
 
