@@ -50,15 +50,6 @@
       "skills": [
         "./skills/claude-api"
       ]
-    },
-    {
-      "name": "suneung-coach",
-      "description": "Korean high-school study operating system: diagnoses gaps back to elementary/middle school, explains in short visual chunks, generates tiered practice sets, classifies error causes, and schedules spaced review for the 2029 수능",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/suneung-coach"
-      ]
     }
   ]
 }
