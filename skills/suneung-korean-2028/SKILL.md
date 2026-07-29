@@ -34,6 +34,7 @@ license: Complete terms in LICENSE.txt
 | "오답을 어떻게 만드나", 선지 판정 훈련 | `07-choice-logic.md` |
 | **평가원이 쓰는 선지·발문 문형 그 자체** | **`15-choice-phrasebook.md`** |
 | **출제자가 따르는 문항 제작·검토 규범 (가장 깊은 층)** | **`20-item-construction-norms.md`** |
+| **평가원이 세상을 보는 렌즈 (국어교육학 체계)** | **`21-kice-lens.md`** |
 | "\<보기\>는 어디서 가져오나" | `08-bogi-sources.md` |
 | 2028 신체제 대응, 예시문항 | `09-2028-shift.md` |
 | 노베이스 커리큘럼 설계, 진단 | `10-curriculum-novice.md` |
